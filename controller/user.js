@@ -1,5 +1,9 @@
 const register = (req, res) => {
   res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
 }
 
 const login = (req, res) => {
