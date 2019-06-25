@@ -1,6 +1,2080 @@
 const register = (req, res) => {
+  res.render('./user/register.ejconst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejsconst register = (req, res) => {
+  res.render('./user/registerconst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.const register = (req, res) => {
+  res.render('./user/recconst register = (req, res) => {
   res.render('./user/register.ejs', {})
   res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs',const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+ {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs',const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+ {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+nst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+gister.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./uconst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+ser/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) =>const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./userconst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+.econst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+  res.render('./user/register.ejsconst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+js', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/reconst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+, {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+'const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejsconst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs'const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+  res.render('./user/register.ejs', {})
+}
+', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+, {})const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+
+  res.render('./user/registrconst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+  res.render('./user/register.ejs', {const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+es.render('./user/
+             res.render('const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, resconst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+s', {})
+  res.render('./user/registerconst register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+const register = (req, res) => {
+  res.render('./user/register.ejs', {})
+  res.render('./user/register.ejs', {})
+  res.render('./user/registres.render('./user/
+             res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
+  res.render('./user/register.ejs', {})
+}
+.ejs', {})
   res.render('./user/registres.render('./user/
              res.render('./user/register.ejs', {})egister.ejs', {})er.ejs', {.........res.render('./user/register.ejs', {})})
   res.render('./user/register.ejs', {})
