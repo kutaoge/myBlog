@@ -1,4 +1,5 @@
 const register = (req, res) => {
+  res.render('./user/register.ejconst register = (req, res) => {
   res.render('./user/register.ejs', {})
   res.render('./user/registconst register = (req, res) => {
   res.render('./user/register.ejs', {})
